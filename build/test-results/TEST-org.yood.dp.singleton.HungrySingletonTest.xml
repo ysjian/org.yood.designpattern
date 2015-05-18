@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.yood.dp.singleton.HungrySingletonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-05-10T13:54:49" hostname="CNsjyuan.local" time="0.002">
-  <properties/>
-  <testcase name="testGetInstance" classname="org.yood.dp.singleton.HungrySingletonTest" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[May 10, 2015 9:54:49 PM org.yood.dp.singleton.HungrySingleton <init>
-INFO: HungrySingleton.HungrySingleton()
-]]></system-err>
-</testsuite>
